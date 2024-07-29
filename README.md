@@ -1,6 +1,4 @@
-Got it! Let's revise the README to indicate that the project is under heavy development and that many features are coming soon. We'll also streamline it further to focus on the upcoming features and the overall vision.
 
----
 
 <h1 align="center">Black Shield Redux ORM</h1>
 
